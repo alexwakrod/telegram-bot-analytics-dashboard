@@ -99,3 +99,5 @@ npm run test
 
 ## 📝 License
 MIT – free to use and modify.
+
+Made by [alexwakrod](https://github.com/alexwakrod)
